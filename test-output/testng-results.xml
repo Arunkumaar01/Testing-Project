@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-20T10:42:59Z" name="Default suite" finished-at="2022-12-20T10:43:03Z" duration-ms="3244">
+    <groups>
+    </groups>
+    <test started-at="2022-12-20T10:42:59Z" name="Default test" finished-at="2022-12-20T10:43:03Z" duration-ms="3244">
+      <class name="org.exa.TestSamp">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:org.exa.TestSamp@55f616cf]" started-at="2022-12-20T16:12:56Z" name="launchBrowser" finished-at="2022-12-20T16:12:59Z" duration-ms="3393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="google()[pri:0, instance:org.exa.TestSamp@55f616cf]" started-at="2022-12-20T16:12:59Z" name="google" finished-at="2022-12-20T16:13:01Z" duration-ms="1445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method signature="yahoo()[pri:1, instance:org.exa.TestSamp@55f616cf]" started-at="2022-12-20T16:13:01Z" name="yahoo" finished-at="2022-12-20T16:13:02Z" duration-ms="1235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yahoo -->
+        <test-method signature="bing()[pri:2, instance:org.exa.TestSamp@55f616cf]" started-at="2022-12-20T16:13:02Z" name="bing" finished-at="2022-12-20T16:13:03Z" duration-ms="512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bing -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:org.exa.TestSamp@55f616cf]" started-at="2022-12-20T16:13:03Z" name="quit" finished-at="2022-12-20T16:13:03Z" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- org.exa.TestSamp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
